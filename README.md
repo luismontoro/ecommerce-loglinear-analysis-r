@@ -31,5 +31,6 @@ A partir de los resultados del modelo, planteé tres líneas de acción para mej
 
 ## Archivos del repositorio
 
-- `analisis_log_lineal.R`: script en R con las recodificaciones, tablas de contingencia, gráficos descriptivos, ajuste del modelo saturado y selección del modelo óptimo.
-- `Modelizacion.pdf`: presentación con el resumen visual y los resultados del proyecto.
+- `script_analisis_log_lineal.r`: script en R con las recodificaciones, tablas de contingencia, gráficos descriptivos, ajuste del modelo saturado y selección del modelo óptimo.
+- `Presentacion_TFG.pdf`: presentación con el resumen visual y los resultados del proyecto.
+- `TFG_FINAL.pdf`: memoria completa del Trabajo de Fin de Grado con el marco teórico, desarrollo metodológico y tablas detalladas.
